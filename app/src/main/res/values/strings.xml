@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindMate</string>
+    <string name="label_profile_image">User\'s Profile Image</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="load">Load</string>
+    <string name="err_failed_to_load_users">Failed to load Users.</string>
+</resources>
